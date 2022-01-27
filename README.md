@@ -1,5 +1,5 @@
 # Text classification to streamline online wildlife trade analyses
-Code and data for text classification models association with "Text classification to streamline online wildlife trade analyses". by Stringham OC, Moncayo S, Hill KGW, Toomes A, Mitchell L, Ross JV, Cassey P. Submitted to peer review, PDF for pre print forthcoming. 
+Code and data for text classification models association with "Text classification to streamline online wildlife trade analyses". by Stringham OC, Moncayo S, Hill KGW, Toomes A, Mitchell L, Ross JV, Cassey P. (2021). PLOS ONE: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0254007
 
 ---
 
